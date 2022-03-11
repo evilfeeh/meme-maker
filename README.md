@@ -1,15 +1,15 @@
 
 # meme maker with docker
 
-🍃 Project created follow the steps of [Erick Wendel](https://www.youtube.com/watch?v=MOpwfg1GJig)
+🍃 Project created following the steps of [Erick Wendel](https://www.youtube.com/watch?v=MOpwfg1GJig).
 
-I'm made this to test how docker works with node.js, live reload and volumes
+I created it to test how Docker works with Node.js, Live Reload and Volumes.
 
 
-**extra tip:**
+**Extra Tip:**
 
-sometimes, for some unknow reason, nodemon doesn't work correctly
+Sometimes, for some unknown reason, nodemon does not work properly.
 
-so, u'll need to add a `-L` or `--legacy-watch` flag in ur nodemon script.
+Therefore you need to add a `-L` or `--legacy-watch` flag in your nodemon script.
 
-this is a workaround recomended on [nodemon documentation](https://github.com/remy/nodemon#application-isnt-restarting)
+This is a workaround recommended in the [nodemon documentation](https://github.com/remy/nodemon#application-isnt-restarting).
