@@ -1,0 +1,11 @@
+version: '2.1'
+services:
+  meme-maker:
+    image: meme-maker
+    build: .
+    volumes:
+      - C:\Users\felip\codes\meme-node\:/meme-generator
+      - C:\Users\felip\codes\meme-node\node_modules:/meme-generator/node_modules
+
+volumes:
+  node_modules: {}
